@@ -4,7 +4,7 @@ Here is the collection of the course material for the autumn school [Proof and C
 ## Courses
 - Ingo Blechschmidt: Generalized Spaces for Constructive Algebra
 - Stefania Centrone: Proof Theory
-- Thierry Coquand: Applications of Type Theory to Univalent Mathematics
+- Thierry Coquand: Applications of Type Theory to Univalent Mathematics (see [above](https://github.com/cj-xu/PC19/tree/master/Coquand))
 - Anton Freund: Dilators (slides are available at [Anton's webpage](https://sites.google.com/view/antonfreund/talks))
 - Tatsuji Kawai: Concepts of Continuity
 - Wolfgang Küchlin: Boolean SAT-Solving, with Applications to Automotive Configuration
