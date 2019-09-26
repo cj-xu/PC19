@@ -9,3 +9,12 @@ Here is the collection of the course material for the autumn school [Proof and C
 - Tatsuji Kawai: Concepts of Continuity (see [above](https://github.com/cj-xu/PC19/tree/master/Kawai))
 - Wolfgang Küchlin: Boolean SAT-Solving, with Applications to Automotive Configuration
 - Dominique Larchey-Wendling: Extraction of Programs in Coq (slides and Coq codes are available at [Dominique's GitHub repository](https://github.com/DmxLarchey/PC19))
+
+## Working groups
+- Ingo Blechschmidt: Tutorial on Agda
+- Florian Steinberg: Extracting continuity information in proof assistants
+- Dominique Larchey-Wendling: Coq (1) install via Opam (2) cycle detection (3) dfs correctness (see [Dominique's GitHub repository](https://github.com/DmxLarchey/PC19))
+- Franziskus Wiesnet: Tutorial on Minlog
+- Marlou Gijzen and Jinghui Tao: Kolmogorov/Algorithmic complexity
+- Peter Schuster: Learning, resolution, dynamic
+- Chuangjie Xu: Computing moduli of continuity in Agda (see [above](https://github.com/cj-xu/PC19/tree/master/Xu))
